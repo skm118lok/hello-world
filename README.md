@@ -1,2 +1,3 @@
 # hello-world
-a repository
+Hello I am Stephen.
+This is for learning.
